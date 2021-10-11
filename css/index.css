@@ -1,15 +1,77 @@
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 /* header */
 .head {
     background-color: black;
 }
 .header_title {
-font-size: 44px;
-color: white;
-font-family: Staatliches;
-font-weight: 400;
-}
-.menu {
+    font-size: 45px;
     color: white;
+    font-family: staatliches, cursive;
+    font-weight: 400;
+    text-decoration: none;
+}
+.logo_menu {
+    color: white;
+    font-size: 15px;
+    font-weight: 200;
+    text-decoration: none;
+}
+/* main */
+.first_block_about {
+    background-image: url(/img/car_first_block_1.jpeg);
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.firs_block_title {
+    color: white;
+    font-size: 95px;
+    line-height: 1px;
+    font-family: staatliches, cursive;
+    font-weight: 400;
+}
+.first_block_secondtitle {
+    color: white;
+    font-size: 40px;
+    line-height: 1px;
+    font-family: staatliches, cursive;
+    font-weight: 400;
+}
+.first_button {
+    border-top: 2;
+    border-left: 2;
+    border-right: 2;
+    border-bottom: 2;
+}
+.first_block_second_page {
+    background-image: url(/img/car_first_block_2.jpeg);
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
 
+
+
+
+
+
+
+
+
+
+
+
+img {
+    width: 50%;
 }
