@@ -1,6 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+/* header */
 .head {
     background-color: black;
 }
 .header_title {
-    color: chartreuse;
+font-size: 25px;
+color: white;
+font-family: Staatliches;
+}
+.menu {
+
 }
