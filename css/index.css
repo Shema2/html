@@ -19,7 +19,7 @@
 }
 /* main */
 .first_block_about {
-    background-image: url(/img/car_first_block_1.jpeg);
+    background-image: url(../img/car_first_block_first.jpeg);
     background-size: cover;
     background-position: center;
     min-height: 500px;
@@ -50,7 +50,7 @@
     border-bottom: 2;
 }
 .first_block_second_page {
-    background-image: url(/img/car_first_block_2.jpeg);
+    background-image: url(../img/car_first_block_second.jpeg);
     background-size: cover;
     background-position: center;
     min-height: 500px;
