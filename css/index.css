@@ -4,7 +4,12 @@
     background-color: black;
 }
 .header_title {
-font-size: 25px;
+font-size: 44px;
 color: white;
 font-family: Staatliches;
+font-weight: 400;
+}
+.menu {
+    color: white;
+
 }
